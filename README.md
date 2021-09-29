@@ -1,8 +1,8 @@
-### Hey there 👋
+### Hey, how's it going? 👋
 
-I'm James and I like to code.
+I'm James and welcome to my Github! 😁
 
-## Check out some of my projects!
+## Check out some of my projects! 🌱
 
 [any Wajers?](https://anywajers.herokuapp.com/)   
 &nbsp;&nbsp;&nbsp;&nbsp;A social media site where users can meet others to play games together.   
