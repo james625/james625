@@ -1,7 +1,7 @@
 ### Hey, how's it going? 👋
 
 I'm James and welcome to my Github! 😁
-
+<!--
 ## Check out some of my projects! 🌱
 
 [any Wajers?](https://anywajers.herokuapp.com/)   
@@ -16,7 +16,7 @@ I'm James and welcome to my Github! 😁
 &nbsp;&nbsp;&nbsp;&nbsp;A browser version of an aim trainer.   
 &nbsp;&nbsp;&nbsp;&nbsp;Created solely with vanilla JavaScript and SCSS.
 
-<!--
+
 **james625/james625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
